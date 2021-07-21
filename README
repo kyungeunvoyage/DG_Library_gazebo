@@ -1,0 +1,3 @@
+scout_ros>scout_description>launch>
+
+command : roslaunch scout_description scout_world.launch
